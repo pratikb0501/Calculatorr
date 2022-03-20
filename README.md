@@ -1,6 +1,6 @@
 # Calculator
 
 ### TechStack Used
-[ ] HTML
-[ ] CSS
-[ ] Vanilla Javascript
+- HTML
+- CSS
+- Vanilla Javascript
